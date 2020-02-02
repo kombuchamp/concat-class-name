@@ -1,0 +1,14 @@
+{
+    "name": "concat-class-names",
+    "version": "1.0.0",
+    "description": "Utility function for concatenating multiple classnames into one class string",
+    "main": "concatClassNames.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "author": "kombuchamp (k.belousov)",
+    "license": "MIT",
+    "devDependencies": {
+        "mocha": "^7.0.1"
+    }
+}
