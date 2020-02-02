@@ -6,7 +6,18 @@
     "scripts": {
         "test": "mocha"
     },
-    "author": "kombuchamp (k.belousov)",
+    "repository": {
+        "type": "git",
+        "url": "https://https://github.com/kombuchamp/concat-class-names.git"
+    },
+    "keywords": [
+        "classnames"
+    ],
+    "bugs": {
+        "url": "https://github.com/kombuchamp/concat-class-names/issues"
+    },
+    "homepage": "https://https://github.com/kombuchamp/concat-class-names",
+    "author": "Konstantin Belousov <kombuchamp@gmail.com>",
     "license": "MIT",
     "devDependencies": {
         "mocha": "^7.0.1"
